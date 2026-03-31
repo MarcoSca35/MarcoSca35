@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://healthlakes.com" target="_blank"><img src="https://img.shields.io/badge/🌊_HealthLakes-Live_Project-2E86C1?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/marco-andres-scavuzzo-01b15b164" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:marcosca3009@gmail.com"><img src="https://img.shields.io/badge/Email-marcosca3009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/cdn-cgi/l/email-protection#335e5241505c4050520003030a73545e525a5f1d505c5e"><img src="https://img.shields.io/badge/Email-marcosca3009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -84,12 +84,9 @@ Models the impact of residential developments on lake water quality (Phosphorus,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoSca35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSca35&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</p>
+[![MarcoSca35's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcoSca35&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MarcoSca35)
 
 ---
 
@@ -101,5 +98,4 @@ Models the impact of residential developments on lake water quality (Phosphorus,
 
 <p align="center">
   <i>Open to remote roles, freelance projects, and interesting problems worth solving.</i><br/>
-  <a href="https://healthlakes.com">healthlakes.com</a> · <a href="https://www.linkedin.com/in/marco-andres-scavuzzo-01b15b164">LinkedIn</a> · <a href="mailto:marcosca3009@gmail.com">marcosca3009@gmail.com</a>
-</p>
+  <a href="https://healthlakes.com">healthlakes.com</a> · <a href="https://www.linkedin.com/in/marco-andres-scavuzzo-01b15b164">LinkedIn</a> · <a href="/cdn-cgi/l/email-p
